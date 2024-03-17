@@ -14,10 +14,11 @@
 * Column D: Takeout order amount ($) - available only for those who clicked, recorded before any promotional discount or cart abandonment.
 * Column E: Indicator for whether the order was for lunch (1) or dinner (0), with a cutoff time of 3 pm to classify orders based on the time the ad was shown to the consumer
 
-## Costs Breakdown
+## Costs Breakdown/Assumptions
 * The cost to Quick Dosa of a soft drink that is given away with Promotion A is $0.25.
 * The average contribution margin on both lunch and dinner orders is 40% of before- promotion revenue.
 * The cost per exposure for display advertising is $0.03.
+* All clicks resulted in orders, but a 4% cart abandonment rate occurred due to credit card issues.
 
 ## Summary
 * Based on the analysis, Promotion A achieved a return on advertising (ROA) percentage of 649% during lunch hours and 161% during dinner hours, resulting in a total ROA of 810%, meaning for every $1 spent on advertising $8.10 was generated in incremental contribution. In contrast, Promotion B yielded a ROA of 281% during lunch and 388% during dinner, totaling 669% ROA, meaning for every $1 spent on advertising $6.69 was generated in incremental contribution.
