@@ -43,5 +43,5 @@
 * Additionally, I calculated the ad-exposure costs by multiplying the total individuals shown each promotion in each meal period by $0.03.
   * The total costs were then obtained by summing the promotional costs and ad-exposure costs for each meal period and promotion.
 
-* Finally, using the ROA percentage formula [(contribution margin - total costs) / total costs], I computed the profitability of each promotion during each meal period, to determine which promotion maximize revenue and minimize costs.
-  * Promotion A had a greater profitability and should be rolled out to the other cities. 
+* Finally, using the ROA percentage formula [(contribution margin - total costs) / total costs], I computed the profitability of each promotion during each meal period, to determine which promotion maximized revenue and minimize costs.
+  * Promotion A had a greater profitability with a total ROA of 810% and should be rolled out to the other cities. 
