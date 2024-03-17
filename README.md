@@ -16,6 +16,7 @@
 
 ## Costs Breakdown/Assumptions
 * The cost to Quick Dosa of a soft drink that is given away with Promotion A is $0.25.
+* Promotion B - a 5% discount on orders.
 * The average contribution margin on both lunch and dinner orders is 40% of before- promotion revenue.
 * The cost per exposure for display advertising is $0.03.
 * All clicks resulted in orders, but a 4% cart abandonment rate occurred due to credit card issues.
