@@ -14,13 +14,13 @@
 * Column D: Takeout order amount ($) - available only for those who clicked, recorded before any promotional discount or cart abandonment.
 * Column E: Indicator for whether the order was for lunch (1) or dinner (0), with a cutoff time of 3 pm to classify orders based on the time the ad was shown to the consumer
 
-## Promotion Costs Breakdown
+## Costs Breakdown
 * The cost to Quick Dosa of a soft drink that is given away with Promotion A is $0.25.
 * The average contribution margin on both lunch and dinner orders is 40% of before- promotion revenue.
 * The cost per exposure for display advertising is $0.03.
 
 ## Summary
-* Based on the analysis, Promotion A achieved a return on advertising (ROA) percentage of 649% during lunch hours and 161% during dinner hours, resulting in a total ROA of 810%. In contrast, Promotion B yielded a ROA of 281% during lunch and 388% during dinner, totaling 669% ROA.
+* Based on the analysis, Promotion A achieved a return on advertising (ROA) percentage of 649% during lunch hours and 161% during dinner hours, resulting in a total ROA of 810%, meaning for every $1 spent on advertising $8.10 was generated in incremental contribution. In contrast, Promotion B yielded a ROA of 281% during lunch and 388% during dinner, totaling 669% ROA, meaning for every $1 spent on advertising $6.69 was generated in incremental contribution.
 * Given these results, Promotion A emerges as the more lucrative option, maximizing revenue and minimizing costs. Therefore, it is advisable to roll out Promotion A to Quick Dosa's other franchised restaurants.
 
 ## Procedure
@@ -32,4 +32,15 @@
 
 * I decided to further explore click-through rates (CTR) by analyzing activity during lunch and dinner times. Using a pivot table, I examined the sum of clicks for each promotion during their respective meal periods. For Promotion A, the lunchtime CTR was 1.91%, significantly higher than the 0.31% observed during dinner hours, suggesting that individuals predominantly utilized this promotion during lunch. On the other hand, Promotion B exhibited a lunchtime CTR of 1.55% and a dinner CTR of 1.47%, indicating a relatively even distribution of utilization throughout the day.
 * After calculating the CTR for each meal period for each promotion, I proceeded to determine the average meal cost during each meal period. Using a pivot table, I analyzed each promotion and their respective average takeout order. For Promotion A, the average lunch order was $24.68, slightly higher than the dinner average of $24.37. Similarly, for Promotion B, the average lunch order amounted to $23.62, with a dinner average of $23.59. These findings indicate that individuals tend to spend more money during both lunch and dinner periods for Promotion A compared to Promotion B.
-* Now that I have caluclated insightful statisctics such as each promotions click through rate during each meal period and the the average meal costs. It was time to determine the profitability of each of the two promotions by calculating the return of advertisemet (ROA) percentaage for each promotion. 
+
+* After computing insightful statistics such as the click-through rate (CTR) during each meal period for each promotion and the average meal costs, it was imperative to assess the profitability of each promotion by calculating the return on advertising (ROA) percentage.
+  * First, I created a pivot table to determine the sum of takeout orders for each promotion during both meal periods, factoring in the 4% cart abandonment rate to find the actual total revenue generated.
+  * Then, assuming each click resulted in a purchase, I adjusted the number of clicks to reflect the number of purchases after incorporating the 4% cart abandonment rate.
+
+* For Promotion A, the promotional costs during each meal period were calculated by multiplying the number of purchases in each period by $0.25 to account for the cost of the free soft drink. For Promotion B, the promotional costs during each meal period were determined by multiplying the total revenue generated from the promotion by 5%.
+
+* Additionally, I calculated the ad-exposure costs by multiplying the total individuals shown each promotion in each meal period by $0.03.
+  * The total costs were then obtained by summing the promotional costs and ad-exposure costs for each meal period and promotion.
+
+* Finally, using the ROA percentage formula [(contribution margin - total costs) / total costs], I computed the profitability of each promotion during each meal period, to determine which promotion maximize revenue and minimize costs.
+  * Promotion A had a greater profitability and should be rolled out to the other cities. 
