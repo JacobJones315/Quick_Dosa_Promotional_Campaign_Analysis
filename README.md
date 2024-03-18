@@ -53,6 +53,8 @@
 ![](/images/Chi_Squared_Test_CTR1.png)
 ![](/images/Promotion_A-B_Meals_CTR.png)
 ![](/images/Promotion_A-B_Avg_Meal_Costs.png)
+
+![](/images/Promotion_A-B_Revenue.png)
 ![](/images/Promotion_A-B_ROA_Data1.png)
 ![](/images/Promotion_A-B_ROA_Calculations4.png)
 
