@@ -50,7 +50,7 @@
  ## Screenshot of Outputs
 ![](/images/Chi_Squared_Test_Random_Assignment.png)
 
-![](/images/Chi_Squared_Test_CTR.png)
+![](/images/Chi_Squared_Test_CTR1.png)
 
 ![](/images/Promotion_A-B_Meals_CTR.png)
 ![](/images/Promotion_A-B_Avg_Meal_Costs.png)
