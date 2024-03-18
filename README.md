@@ -48,15 +48,12 @@
   * Promotion A demonstrated superior profitability, boasting a lunch period ROA of 649% and a dinner period ROA of 161%, culminating in a total ROA of 810%. Given these impressive results, Promotion A should be rolled out to the other cities.
  
  ## Screenshot of Outputs
-![](/images/Chi_Squared_Test_Random_Assignment.png)
+![](/images/Chi_Squared_Test_Random_Assignment1.png)
 
 ![](/images/Chi_Squared_Test_CTR1.png)
-
 ![](/images/Promotion_A-B_Meals_CTR.png)
 ![](/images/Promotion_A-B_Avg_Meal_Costs.png)
-
 ![](/images/Promotion_A-B_ROA_Data1.png)
-
 ![](/images/Promotion_A-B_ROA_Calculations4.png)
 
 
